@@ -1,0 +1,8 @@
+{
+  "name": "Racing Legends",
+  "description": "Professional 3D esports logo creator featuring futuristic supercars, neon aesthetics, and cinematic branding for high",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
